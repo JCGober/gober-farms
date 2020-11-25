@@ -1,7 +1,15 @@
+body{
+    
+    font-family: 'Barlow', sans-serif;
+}
+
 main{
     width: 80%;
     margin: 0 auto;
     padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    
+
 }
 
 .feature-card{
